@@ -9,7 +9,6 @@ I'm Suwan Aryal, a Computer Science student with a strong interest in **Data Sci
 
 - 🎓 **Student** at The University of Southern Mississippi
 - 🌱 Currently learning **deep learning** and **data engineering**
-- 📝 Looking for **data science internships**
 - 🌐 [Visit My Portfolio](https://yourportfolio.com) _(Coming Soon!)_
 - 📧 Reach me at: aryalsuwan.2003@gmail.com
 
