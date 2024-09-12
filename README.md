@@ -21,17 +21,6 @@ Hi there! 👋 I'm **Suwan Aryal**, an aspiring **Data Scientist** with a strong
 - **Version Control**: Git, GitHub
 - **Other Tools**: Jupyter Notebooks, Excel, Tableau, Power BI
 
----
-
-### 📂 **Projects**
-- **[Customer Churn Prediction](https://github.com/yourusername/customer-churn-prediction)**  
-  A machine learning project that uses logistic regression and decision trees to predict customer churn based on usage data.
-
-- **[Movie Recommendation System](https://github.com/yourusername/movie-recommendation-system)**  
-  A content-based movie recommendation system using Natural Language Processing (NLP) techniques.
-
-- **[Sales Data Analysis](https://github.com/yourusername/sales-data-analysis)**  
-  An analysis of retail sales data to identify key trends and business insights using Pandas and Matplotlib.
 
 ---
 
