@@ -81,10 +81,4 @@ I'm Suwan Aryal, a Computer Science student with a strong interest in **Data Sci
 
 ---
 
-## 🌐 **Connect with Me**
-- **LinkedIn**: [linkedin.com/in/suwanaryal](https://linkedin.com/in/suwanaryal)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-
----
-
 Thanks for stopping by! 😊
