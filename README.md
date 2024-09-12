@@ -1,6 +1,6 @@
 # Suwan Aryal - Aspiring Data Scientist
 
-Hi there! 👋 I'm **Suwan Aryal**, an aspiring **Data Scientist** with a strong foundation in **data analysis**, **machine learning**, and **programming**. I’m currently pursuing a **Bachelor of Science in Computer Science** with a minor in **Mathematics** at **The University of Southern Mississippi**. I have a passion for turning raw data into meaningful insights and solving real-world problems through data-driven approaches.
+Hi there! 👋 I'm **Suwan Aryal**, an aspiring **Data Scientist** with a strong foundation in **data analysis**, **machine learning**, and **programming**. I’m currently pursuing a **Bachelor of Science in Computer Science** with a minor in **Mathematics** as an **Honors Student** at **The University of Southern Mississippi**. I have a passion for turning raw data into meaningful insights and solving real-world problems through data-driven approaches.
 
 ---
 
