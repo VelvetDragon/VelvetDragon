@@ -9,7 +9,7 @@ I'm Suwan Aryal, a Computer Science student with a strong interest in **Data Sci
 
 - 🎓 **Student** at The University of Southern Mississippi
 - 🌱 Currently learning **deep learning** and **data engineering**
-- 🌐 [Visit My Portfolio](https://suone.vercel.app) 
+- 🌐 <a href="https://suone.vercel.app" target="_blank">Visit My Portfolio</a>
 - 📧 [Email Me](mailto:suwanaryal@example.com)
 
 ---
